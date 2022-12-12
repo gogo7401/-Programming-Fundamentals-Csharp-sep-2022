@@ -1,0 +1,14 @@
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\02. Division\bin\Debug\netcoreapp3.1\02. Division.exe
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\02. Division\bin\Debug\netcoreapp3.1\02. Division.deps.json
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\02. Division\bin\Debug\netcoreapp3.1\02. Division.runtimeconfig.json
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\02. Division\bin\Debug\netcoreapp3.1\02. Division.runtimeconfig.dev.json
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\02. Division\bin\Debug\netcoreapp3.1\02. Division.dll
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\02. Division\bin\Debug\netcoreapp3.1\02. Division.pdb
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\02. Division\obj\Debug\netcoreapp3.1\02. Division.csproj.AssemblyReference.cache
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\02. Division\obj\Debug\netcoreapp3.1\02. Division.GeneratedMSBuildEditorConfig.editorconfig
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\02. Division\obj\Debug\netcoreapp3.1\02. Division.AssemblyInfoInputs.cache
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\02. Division\obj\Debug\netcoreapp3.1\02. Division.AssemblyInfo.cs
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\02. Division\obj\Debug\netcoreapp3.1\02. Division.csproj.CoreCompileInputs.cache
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\02. Division\obj\Debug\netcoreapp3.1\02. Division.dll
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\02. Division\obj\Debug\netcoreapp3.1\02. Division.pdb
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\02. Division\obj\Debug\netcoreapp3.1\02. Division.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.exe
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.deps.json
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.runtimeconfig.json
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.runtimeconfig.dev.json
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.dll
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.pdb
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.csproj.AssemblyReference.cache
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.GeneratedMSBuildEditorConfig.editorconfig
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.AssemblyInfoInputs.cache
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.AssemblyInfo.cs
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.csproj.CoreCompileInputs.cache
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.dll
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.pdb
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.genruntimeconfig.cache

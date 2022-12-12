@@ -1,0 +1,14 @@
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.csproj.AssemblyReference.cache
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.GeneratedMSBuildEditorConfig.editorconfig
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.AssemblyInfoInputs.cache
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.AssemblyInfo.cs
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.csproj.CoreCompileInputs.cache
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.exe
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.deps.json
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.runtimeconfig.json
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.runtimeconfig.dev.json
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.dll
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.pdb
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.dll
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.pdb
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.genruntimeconfig.cache
