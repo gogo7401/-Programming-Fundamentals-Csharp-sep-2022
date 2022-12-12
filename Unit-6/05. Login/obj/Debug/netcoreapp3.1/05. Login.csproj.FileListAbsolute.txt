@@ -1,0 +1,14 @@
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\05. Login\bin\Debug\netcoreapp3.1\05. Login.exe
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\05. Login\bin\Debug\netcoreapp3.1\05. Login.deps.json
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\05. Login\bin\Debug\netcoreapp3.1\05. Login.runtimeconfig.json
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\05. Login\bin\Debug\netcoreapp3.1\05. Login.runtimeconfig.dev.json
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\05. Login\bin\Debug\netcoreapp3.1\05. Login.dll
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\05. Login\bin\Debug\netcoreapp3.1\05. Login.pdb
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\05. Login\obj\Debug\netcoreapp3.1\05. Login.csproj.AssemblyReference.cache
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\05. Login\obj\Debug\netcoreapp3.1\05. Login.GeneratedMSBuildEditorConfig.editorconfig
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\05. Login\obj\Debug\netcoreapp3.1\05. Login.AssemblyInfoInputs.cache
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\05. Login\obj\Debug\netcoreapp3.1\05. Login.AssemblyInfo.cs
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\05. Login\obj\Debug\netcoreapp3.1\05. Login.csproj.CoreCompileInputs.cache
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\05. Login\obj\Debug\netcoreapp3.1\05. Login.dll
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\05. Login\obj\Debug\netcoreapp3.1\05. Login.pdb
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\05. Login\obj\Debug\netcoreapp3.1\05. Login.genruntimeconfig.cache

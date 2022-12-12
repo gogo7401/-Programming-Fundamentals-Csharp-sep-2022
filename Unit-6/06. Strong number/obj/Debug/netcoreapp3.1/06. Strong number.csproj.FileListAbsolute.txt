@@ -1,0 +1,14 @@
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.csproj.AssemblyReference.cache
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.GeneratedMSBuildEditorConfig.editorconfig
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.AssemblyInfoInputs.cache
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.AssemblyInfo.cs
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.csproj.CoreCompileInputs.cache
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\06. Strong number\bin\Debug\netcoreapp3.1\06. Strong number.exe
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\06. Strong number\bin\Debug\netcoreapp3.1\06. Strong number.deps.json
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\06. Strong number\bin\Debug\netcoreapp3.1\06. Strong number.runtimeconfig.json
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\06. Strong number\bin\Debug\netcoreapp3.1\06. Strong number.runtimeconfig.dev.json
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\06. Strong number\bin\Debug\netcoreapp3.1\06. Strong number.dll
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\06. Strong number\bin\Debug\netcoreapp3.1\06. Strong number.pdb
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.dll
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.pdb
+D:\_SoftUni\GitHub\PF-Csharp-sep2022\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.genruntimeconfig.cache
