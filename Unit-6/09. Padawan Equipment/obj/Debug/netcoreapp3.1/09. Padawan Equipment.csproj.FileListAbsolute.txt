@@ -1,0 +1,14 @@
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\09. Padawan Equipment\bin\Debug\netcoreapp3.1\09. Padawan Equipment.exe
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\09. Padawan Equipment\bin\Debug\netcoreapp3.1\09. Padawan Equipment.deps.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\09. Padawan Equipment\bin\Debug\netcoreapp3.1\09. Padawan Equipment.runtimeconfig.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\09. Padawan Equipment\bin\Debug\netcoreapp3.1\09. Padawan Equipment.runtimeconfig.dev.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\09. Padawan Equipment\bin\Debug\netcoreapp3.1\09. Padawan Equipment.dll
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\09. Padawan Equipment\bin\Debug\netcoreapp3.1\09. Padawan Equipment.pdb
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.csproj.AssemblyReference.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.GeneratedMSBuildEditorConfig.editorconfig
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.AssemblyInfoInputs.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.AssemblyInfo.cs
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.csproj.CoreCompileInputs.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.dll
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.pdb
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.genruntimeconfig.cache

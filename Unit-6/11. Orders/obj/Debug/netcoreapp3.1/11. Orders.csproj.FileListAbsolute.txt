@@ -1,0 +1,14 @@
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\11. Orders\bin\Debug\netcoreapp3.1\11. Orders.exe
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\11. Orders\bin\Debug\netcoreapp3.1\11. Orders.deps.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\11. Orders\bin\Debug\netcoreapp3.1\11. Orders.runtimeconfig.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\11. Orders\bin\Debug\netcoreapp3.1\11. Orders.runtimeconfig.dev.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\11. Orders\bin\Debug\netcoreapp3.1\11. Orders.dll
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\11. Orders\bin\Debug\netcoreapp3.1\11. Orders.pdb
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\11. Orders\obj\Debug\netcoreapp3.1\11. Orders.csproj.AssemblyReference.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\11. Orders\obj\Debug\netcoreapp3.1\11. Orders.GeneratedMSBuildEditorConfig.editorconfig
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\11. Orders\obj\Debug\netcoreapp3.1\11. Orders.AssemblyInfoInputs.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\11. Orders\obj\Debug\netcoreapp3.1\11. Orders.AssemblyInfo.cs
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\11. Orders\obj\Debug\netcoreapp3.1\11. Orders.csproj.CoreCompileInputs.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\11. Orders\obj\Debug\netcoreapp3.1\11. Orders.dll
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\11. Orders\obj\Debug\netcoreapp3.1\11. Orders.pdb
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\11. Orders\obj\Debug\netcoreapp3.1\11. Orders.genruntimeconfig.cache

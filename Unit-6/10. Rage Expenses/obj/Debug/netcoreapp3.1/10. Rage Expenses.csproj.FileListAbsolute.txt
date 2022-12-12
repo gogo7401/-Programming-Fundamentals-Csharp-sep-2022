@@ -1,0 +1,14 @@
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.exe
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.deps.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.runtimeconfig.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.runtimeconfig.dev.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.dll
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.pdb
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.csproj.AssemblyReference.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.GeneratedMSBuildEditorConfig.editorconfig
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.AssemblyInfoInputs.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.AssemblyInfo.cs
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.csproj.CoreCompileInputs.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.dll
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.pdb
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-6\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.genruntimeconfig.cache
