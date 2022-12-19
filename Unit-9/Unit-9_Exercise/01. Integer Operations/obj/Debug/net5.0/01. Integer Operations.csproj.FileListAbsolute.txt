@@ -1,0 +1,16 @@
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-9\Unit-9_Exercise\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.exe
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-9\Unit-9_Exercise\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.deps.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-9\Unit-9_Exercise\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.runtimeconfig.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-9\Unit-9_Exercise\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.runtimeconfig.dev.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-9\Unit-9_Exercise\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.dll
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-9\Unit-9_Exercise\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.pdb
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-9\Unit-9_Exercise\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.csproj.AssemblyReference.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-9\Unit-9_Exercise\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-9\Unit-9_Exercise\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.AssemblyInfoInputs.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-9\Unit-9_Exercise\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.AssemblyInfo.cs
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-9\Unit-9_Exercise\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.csproj.CoreCompileInputs.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-9\Unit-9_Exercise\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.dll
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-9\Unit-9_Exercise\01. Integer Operations\obj\Debug\net5.0\refint\01. Integer Operations.dll
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-9\Unit-9_Exercise\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.pdb
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-9\Unit-9_Exercise\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.genruntimeconfig.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-9\Unit-9_Exercise\01. Integer Operations\obj\Debug\net5.0\ref\01. Integer Operations.dll

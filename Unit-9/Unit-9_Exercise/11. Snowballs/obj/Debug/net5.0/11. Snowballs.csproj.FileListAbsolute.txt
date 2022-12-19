@@ -1,0 +1,16 @@
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-9\Unit-9_Exercise\11. Snowballs\bin\Debug\net5.0\11. Snowballs.exe
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-9\Unit-9_Exercise\11. Snowballs\bin\Debug\net5.0\11. Snowballs.deps.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-9\Unit-9_Exercise\11. Snowballs\bin\Debug\net5.0\11. Snowballs.runtimeconfig.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-9\Unit-9_Exercise\11. Snowballs\bin\Debug\net5.0\11. Snowballs.runtimeconfig.dev.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-9\Unit-9_Exercise\11. Snowballs\bin\Debug\net5.0\11. Snowballs.dll
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-9\Unit-9_Exercise\11. Snowballs\bin\Debug\net5.0\11. Snowballs.pdb
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-9\Unit-9_Exercise\11. Snowballs\obj\Debug\net5.0\11. Snowballs.csproj.AssemblyReference.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-9\Unit-9_Exercise\11. Snowballs\obj\Debug\net5.0\11. Snowballs.GeneratedMSBuildEditorConfig.editorconfig
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-9\Unit-9_Exercise\11. Snowballs\obj\Debug\net5.0\11. Snowballs.AssemblyInfoInputs.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-9\Unit-9_Exercise\11. Snowballs\obj\Debug\net5.0\11. Snowballs.AssemblyInfo.cs
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-9\Unit-9_Exercise\11. Snowballs\obj\Debug\net5.0\11. Snowballs.csproj.CoreCompileInputs.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-9\Unit-9_Exercise\11. Snowballs\obj\Debug\net5.0\11. Snowballs.dll
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-9\Unit-9_Exercise\11. Snowballs\obj\Debug\net5.0\refint\11. Snowballs.dll
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-9\Unit-9_Exercise\11. Snowballs\obj\Debug\net5.0\11. Snowballs.pdb
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-9\Unit-9_Exercise\11. Snowballs\obj\Debug\net5.0\11. Snowballs.genruntimeconfig.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-9\Unit-9_Exercise\11. Snowballs\obj\Debug\net5.0\ref\11. Snowballs.dll
