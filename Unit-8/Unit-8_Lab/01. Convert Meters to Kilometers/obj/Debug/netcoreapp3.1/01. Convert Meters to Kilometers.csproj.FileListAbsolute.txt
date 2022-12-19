@@ -1,0 +1,14 @@
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-8\Unit-8_Lab\01. Convert Meters to Kilometers\bin\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.exe
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-8\Unit-8_Lab\01. Convert Meters to Kilometers\bin\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.deps.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-8\Unit-8_Lab\01. Convert Meters to Kilometers\bin\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.runtimeconfig.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-8\Unit-8_Lab\01. Convert Meters to Kilometers\bin\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.runtimeconfig.dev.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-8\Unit-8_Lab\01. Convert Meters to Kilometers\bin\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.dll
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-8\Unit-8_Lab\01. Convert Meters to Kilometers\bin\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.pdb
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-8\Unit-8_Lab\01. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.csproj.AssemblyReference.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-8\Unit-8_Lab\01. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.GeneratedMSBuildEditorConfig.editorconfig
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-8\Unit-8_Lab\01. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.AssemblyInfoInputs.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-8\Unit-8_Lab\01. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.AssemblyInfo.cs
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-8\Unit-8_Lab\01. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.csproj.CoreCompileInputs.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-8\Unit-8_Lab\01. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.dll
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-8\Unit-8_Lab\01. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.pdb
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-8\Unit-8_Lab\01. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.genruntimeconfig.cache

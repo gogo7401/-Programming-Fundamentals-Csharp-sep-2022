@@ -1,0 +1,14 @@
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-8\Unit-8_Lab\06. Reversed Chars\bin\Debug\netcoreapp3.1\06. Reversed Chars.exe
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-8\Unit-8_Lab\06. Reversed Chars\bin\Debug\netcoreapp3.1\06. Reversed Chars.deps.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-8\Unit-8_Lab\06. Reversed Chars\bin\Debug\netcoreapp3.1\06. Reversed Chars.runtimeconfig.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-8\Unit-8_Lab\06. Reversed Chars\bin\Debug\netcoreapp3.1\06. Reversed Chars.runtimeconfig.dev.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-8\Unit-8_Lab\06. Reversed Chars\bin\Debug\netcoreapp3.1\06. Reversed Chars.dll
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-8\Unit-8_Lab\06. Reversed Chars\bin\Debug\netcoreapp3.1\06. Reversed Chars.pdb
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-8\Unit-8_Lab\06. Reversed Chars\obj\Debug\netcoreapp3.1\06. Reversed Chars.csproj.AssemblyReference.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-8\Unit-8_Lab\06. Reversed Chars\obj\Debug\netcoreapp3.1\06. Reversed Chars.GeneratedMSBuildEditorConfig.editorconfig
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-8\Unit-8_Lab\06. Reversed Chars\obj\Debug\netcoreapp3.1\06. Reversed Chars.AssemblyInfoInputs.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-8\Unit-8_Lab\06. Reversed Chars\obj\Debug\netcoreapp3.1\06. Reversed Chars.AssemblyInfo.cs
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-8\Unit-8_Lab\06. Reversed Chars\obj\Debug\netcoreapp3.1\06. Reversed Chars.csproj.CoreCompileInputs.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-8\Unit-8_Lab\06. Reversed Chars\obj\Debug\netcoreapp3.1\06. Reversed Chars.dll
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-8\Unit-8_Lab\06. Reversed Chars\obj\Debug\netcoreapp3.1\06. Reversed Chars.pdb
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-8\Unit-8_Lab\06. Reversed Chars\obj\Debug\netcoreapp3.1\06. Reversed Chars.genruntimeconfig.cache
