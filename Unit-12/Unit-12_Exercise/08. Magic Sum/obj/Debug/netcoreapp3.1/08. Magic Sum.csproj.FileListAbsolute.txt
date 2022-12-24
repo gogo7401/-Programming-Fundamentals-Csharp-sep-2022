@@ -1,0 +1,14 @@
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\08. Magic Sum\bin\Debug\netcoreapp3.1\08. Magic Sum.exe
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\08. Magic Sum\bin\Debug\netcoreapp3.1\08. Magic Sum.deps.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\08. Magic Sum\bin\Debug\netcoreapp3.1\08. Magic Sum.runtimeconfig.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\08. Magic Sum\bin\Debug\netcoreapp3.1\08. Magic Sum.runtimeconfig.dev.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\08. Magic Sum\bin\Debug\netcoreapp3.1\08. Magic Sum.dll
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\08. Magic Sum\bin\Debug\netcoreapp3.1\08. Magic Sum.pdb
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\08. Magic Sum\obj\Debug\netcoreapp3.1\08. Magic Sum.csproj.AssemblyReference.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\08. Magic Sum\obj\Debug\netcoreapp3.1\08. Magic Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\08. Magic Sum\obj\Debug\netcoreapp3.1\08. Magic Sum.AssemblyInfoInputs.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\08. Magic Sum\obj\Debug\netcoreapp3.1\08. Magic Sum.AssemblyInfo.cs
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\08. Magic Sum\obj\Debug\netcoreapp3.1\08. Magic Sum.csproj.CoreCompileInputs.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\08. Magic Sum\obj\Debug\netcoreapp3.1\08. Magic Sum.dll
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\08. Magic Sum\obj\Debug\netcoreapp3.1\08. Magic Sum.pdb
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\08. Magic Sum\obj\Debug\netcoreapp3.1\08. Magic Sum.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-11_Lab\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Even and Odd Subtraction.exe
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-11_Lab\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Even and Odd Subtraction.deps.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-11_Lab\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Even and Odd Subtraction.runtimeconfig.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-11_Lab\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Even and Odd Subtraction.runtimeconfig.dev.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-11_Lab\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Even and Odd Subtraction.dll
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-11_Lab\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Even and Odd Subtraction.pdb
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-11_Lab\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Even and Odd Subtraction.csproj.AssemblyReference.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-11_Lab\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Even and Odd Subtraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-11_Lab\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Even and Odd Subtraction.AssemblyInfoInputs.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-11_Lab\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Even and Odd Subtraction.AssemblyInfo.cs
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-11_Lab\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Even and Odd Subtraction.csproj.CoreCompileInputs.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-11_Lab\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Even and Odd Subtraction.dll
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-11_Lab\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Even and Odd Subtraction.pdb
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-11_Lab\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Even and Odd Subtraction.genruntimeconfig.cache

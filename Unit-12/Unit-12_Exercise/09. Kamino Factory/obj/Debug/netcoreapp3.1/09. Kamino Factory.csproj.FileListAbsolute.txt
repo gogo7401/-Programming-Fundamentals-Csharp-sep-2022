@@ -1,0 +1,14 @@
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\09. Kamino Factory\bin\Debug\netcoreapp3.1\09. Kamino Factory.exe
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\09. Kamino Factory\bin\Debug\netcoreapp3.1\09. Kamino Factory.deps.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\09. Kamino Factory\bin\Debug\netcoreapp3.1\09. Kamino Factory.runtimeconfig.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\09. Kamino Factory\bin\Debug\netcoreapp3.1\09. Kamino Factory.runtimeconfig.dev.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\09. Kamino Factory\bin\Debug\netcoreapp3.1\09. Kamino Factory.dll
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\09. Kamino Factory\bin\Debug\netcoreapp3.1\09. Kamino Factory.pdb
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory.csproj.AssemblyReference.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory.GeneratedMSBuildEditorConfig.editorconfig
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory.AssemblyInfoInputs.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory.AssemblyInfo.cs
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory.csproj.CoreCompileInputs.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory.dll
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory.pdb
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory.genruntimeconfig.cache

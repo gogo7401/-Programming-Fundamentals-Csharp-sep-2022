@@ -1,0 +1,14 @@
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-11_Lab\08. Condense Array to Number\bin\Debug\netcoreapp3.1\08. Condense Array to Number.exe
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-11_Lab\08. Condense Array to Number\bin\Debug\netcoreapp3.1\08. Condense Array to Number.deps.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-11_Lab\08. Condense Array to Number\bin\Debug\netcoreapp3.1\08. Condense Array to Number.runtimeconfig.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-11_Lab\08. Condense Array to Number\bin\Debug\netcoreapp3.1\08. Condense Array to Number.runtimeconfig.dev.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-11_Lab\08. Condense Array to Number\bin\Debug\netcoreapp3.1\08. Condense Array to Number.dll
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-11_Lab\08. Condense Array to Number\bin\Debug\netcoreapp3.1\08. Condense Array to Number.pdb
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-11_Lab\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.csproj.AssemblyReference.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-11_Lab\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-11_Lab\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.AssemblyInfoInputs.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-11_Lab\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.AssemblyInfo.cs
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-11_Lab\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.csproj.CoreCompileInputs.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-11_Lab\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.dll
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-11_Lab\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.pdb
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-11_Lab\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.genruntimeconfig.cache

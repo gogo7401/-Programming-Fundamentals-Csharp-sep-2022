@@ -1,0 +1,14 @@
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-11_Lab\03. Rounding Numbers\bin\Debug\netcoreapp3.1\03. Rounding Numbers.exe
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-11_Lab\03. Rounding Numbers\bin\Debug\netcoreapp3.1\03. Rounding Numbers.deps.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-11_Lab\03. Rounding Numbers\bin\Debug\netcoreapp3.1\03. Rounding Numbers.runtimeconfig.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-11_Lab\03. Rounding Numbers\bin\Debug\netcoreapp3.1\03. Rounding Numbers.runtimeconfig.dev.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-11_Lab\03. Rounding Numbers\bin\Debug\netcoreapp3.1\03. Rounding Numbers.dll
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-11_Lab\03. Rounding Numbers\bin\Debug\netcoreapp3.1\03. Rounding Numbers.pdb
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-11_Lab\03. Rounding Numbers\obj\Debug\netcoreapp3.1\03. Rounding Numbers.csproj.AssemblyReference.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-11_Lab\03. Rounding Numbers\obj\Debug\netcoreapp3.1\03. Rounding Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-11_Lab\03. Rounding Numbers\obj\Debug\netcoreapp3.1\03. Rounding Numbers.AssemblyInfoInputs.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-11_Lab\03. Rounding Numbers\obj\Debug\netcoreapp3.1\03. Rounding Numbers.AssemblyInfo.cs
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-11_Lab\03. Rounding Numbers\obj\Debug\netcoreapp3.1\03. Rounding Numbers.csproj.CoreCompileInputs.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-11_Lab\03. Rounding Numbers\obj\Debug\netcoreapp3.1\03. Rounding Numbers.dll
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-11_Lab\03. Rounding Numbers\obj\Debug\netcoreapp3.1\03. Rounding Numbers.pdb
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-11_Lab\03. Rounding Numbers\obj\Debug\netcoreapp3.1\03. Rounding Numbers.genruntimeconfig.cache

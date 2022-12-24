@@ -1,0 +1,14 @@
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.csproj.AssemblyReference.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.GeneratedMSBuildEditorConfig.editorconfig
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.AssemblyInfoInputs.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.AssemblyInfo.cs
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.csproj.CoreCompileInputs.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.exe
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.deps.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.runtimeconfig.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.runtimeconfig.dev.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.dll
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.pdb
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.dll
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.pdb
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.genruntimeconfig.cache

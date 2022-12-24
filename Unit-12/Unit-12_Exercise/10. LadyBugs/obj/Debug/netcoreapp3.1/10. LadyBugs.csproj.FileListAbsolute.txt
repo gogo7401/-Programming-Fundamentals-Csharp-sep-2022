@@ -1,0 +1,14 @@
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\10. LadyBugs\bin\Debug\netcoreapp3.1\10. LadyBugs.exe
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\10. LadyBugs\bin\Debug\netcoreapp3.1\10. LadyBugs.deps.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\10. LadyBugs\bin\Debug\netcoreapp3.1\10. LadyBugs.runtimeconfig.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\10. LadyBugs\bin\Debug\netcoreapp3.1\10. LadyBugs.runtimeconfig.dev.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\10. LadyBugs\bin\Debug\netcoreapp3.1\10. LadyBugs.dll
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\10. LadyBugs\bin\Debug\netcoreapp3.1\10. LadyBugs.pdb
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\10. LadyBugs\obj\Debug\netcoreapp3.1\10. LadyBugs.csproj.AssemblyReference.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\10. LadyBugs\obj\Debug\netcoreapp3.1\10. LadyBugs.GeneratedMSBuildEditorConfig.editorconfig
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\10. LadyBugs\obj\Debug\netcoreapp3.1\10. LadyBugs.AssemblyInfoInputs.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\10. LadyBugs\obj\Debug\netcoreapp3.1\10. LadyBugs.AssemblyInfo.cs
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\10. LadyBugs\obj\Debug\netcoreapp3.1\10. LadyBugs.csproj.CoreCompileInputs.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\10. LadyBugs\obj\Debug\netcoreapp3.1\10. LadyBugs.dll
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\10. LadyBugs\obj\Debug\netcoreapp3.1\10. LadyBugs.pdb
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\10. LadyBugs\obj\Debug\netcoreapp3.1\10. LadyBugs.genruntimeconfig.cache

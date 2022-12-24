@@ -1,0 +1,14 @@
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\03. Zig-Zag Arrays\bin\Debug\netcoreapp3.1\03. Zig-Zag Arrays.exe
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\03. Zig-Zag Arrays\bin\Debug\netcoreapp3.1\03. Zig-Zag Arrays.deps.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\03. Zig-Zag Arrays\bin\Debug\netcoreapp3.1\03. Zig-Zag Arrays.runtimeconfig.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\03. Zig-Zag Arrays\bin\Debug\netcoreapp3.1\03. Zig-Zag Arrays.runtimeconfig.dev.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\03. Zig-Zag Arrays\bin\Debug\netcoreapp3.1\03. Zig-Zag Arrays.dll
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\03. Zig-Zag Arrays\bin\Debug\netcoreapp3.1\03. Zig-Zag Arrays.pdb
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\03. Zig-Zag Arrays\obj\Debug\netcoreapp3.1\03. Zig-Zag Arrays.csproj.AssemblyReference.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\03. Zig-Zag Arrays\obj\Debug\netcoreapp3.1\03. Zig-Zag Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\03. Zig-Zag Arrays\obj\Debug\netcoreapp3.1\03. Zig-Zag Arrays.AssemblyInfoInputs.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\03. Zig-Zag Arrays\obj\Debug\netcoreapp3.1\03. Zig-Zag Arrays.AssemblyInfo.cs
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\03. Zig-Zag Arrays\obj\Debug\netcoreapp3.1\03. Zig-Zag Arrays.csproj.CoreCompileInputs.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\03. Zig-Zag Arrays\obj\Debug\netcoreapp3.1\03. Zig-Zag Arrays.dll
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\03. Zig-Zag Arrays\obj\Debug\netcoreapp3.1\03. Zig-Zag Arrays.pdb
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-11\Unit-12_Exercise\03. Zig-Zag Arrays\obj\Debug\netcoreapp3.1\03. Zig-Zag Arrays.genruntimeconfig.cache
