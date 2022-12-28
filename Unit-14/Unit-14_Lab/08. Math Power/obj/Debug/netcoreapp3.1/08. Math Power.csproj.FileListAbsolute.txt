@@ -1,0 +1,14 @@
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-14\Unit-14_Lab\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.exe
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-14\Unit-14_Lab\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.deps.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-14\Unit-14_Lab\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.runtimeconfig.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-14\Unit-14_Lab\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.runtimeconfig.dev.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-14\Unit-14_Lab\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.dll
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-14\Unit-14_Lab\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.pdb
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-14\Unit-14_Lab\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.csproj.AssemblyReference.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-14\Unit-14_Lab\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.GeneratedMSBuildEditorConfig.editorconfig
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-14\Unit-14_Lab\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.AssemblyInfoInputs.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-14\Unit-14_Lab\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.AssemblyInfo.cs
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-14\Unit-14_Lab\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.csproj.CoreCompileInputs.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-14\Unit-14_Lab\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.dll
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-14\Unit-14_Lab\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.pdb
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-14\Unit-14_Lab\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.genruntimeconfig.cache

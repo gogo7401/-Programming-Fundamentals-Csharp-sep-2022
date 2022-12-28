@@ -1,0 +1,14 @@
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-14\Unit-14_Lab\10. Multiply Evens by Odds\bin\Debug\netcoreapp3.1\10. Multiply Evens by Odds.exe
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-14\Unit-14_Lab\10. Multiply Evens by Odds\bin\Debug\netcoreapp3.1\10. Multiply Evens by Odds.deps.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-14\Unit-14_Lab\10. Multiply Evens by Odds\bin\Debug\netcoreapp3.1\10. Multiply Evens by Odds.runtimeconfig.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-14\Unit-14_Lab\10. Multiply Evens by Odds\bin\Debug\netcoreapp3.1\10. Multiply Evens by Odds.runtimeconfig.dev.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-14\Unit-14_Lab\10. Multiply Evens by Odds\bin\Debug\netcoreapp3.1\10. Multiply Evens by Odds.dll
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-14\Unit-14_Lab\10. Multiply Evens by Odds\bin\Debug\netcoreapp3.1\10. Multiply Evens by Odds.pdb
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-14\Unit-14_Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.csproj.AssemblyReference.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-14\Unit-14_Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.GeneratedMSBuildEditorConfig.editorconfig
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-14\Unit-14_Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.AssemblyInfoInputs.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-14\Unit-14_Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.AssemblyInfo.cs
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-14\Unit-14_Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.csproj.CoreCompileInputs.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-14\Unit-14_Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.dll
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-14\Unit-14_Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.pdb
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-14\Unit-14_Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.genruntimeconfig.cache
