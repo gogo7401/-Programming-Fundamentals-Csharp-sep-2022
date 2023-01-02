@@ -1,0 +1,14 @@
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-15\Unit-15_Lab\03. Characters in Range\bin\Debug\netcoreapp3.1\03. Characters in Range.exe
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-15\Unit-15_Lab\03. Characters in Range\bin\Debug\netcoreapp3.1\03. Characters in Range.deps.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-15\Unit-15_Lab\03. Characters in Range\bin\Debug\netcoreapp3.1\03. Characters in Range.runtimeconfig.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-15\Unit-15_Lab\03. Characters in Range\bin\Debug\netcoreapp3.1\03. Characters in Range.runtimeconfig.dev.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-15\Unit-15_Lab\03. Characters in Range\bin\Debug\netcoreapp3.1\03. Characters in Range.dll
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-15\Unit-15_Lab\03. Characters in Range\bin\Debug\netcoreapp3.1\03. Characters in Range.pdb
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-15\Unit-15_Lab\03. Characters in Range\obj\Debug\netcoreapp3.1\03. Characters in Range.csproj.AssemblyReference.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-15\Unit-15_Lab\03. Characters in Range\obj\Debug\netcoreapp3.1\03. Characters in Range.GeneratedMSBuildEditorConfig.editorconfig
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-15\Unit-15_Lab\03. Characters in Range\obj\Debug\netcoreapp3.1\03. Characters in Range.AssemblyInfoInputs.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-15\Unit-15_Lab\03. Characters in Range\obj\Debug\netcoreapp3.1\03. Characters in Range.AssemblyInfo.cs
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-15\Unit-15_Lab\03. Characters in Range\obj\Debug\netcoreapp3.1\03. Characters in Range.csproj.CoreCompileInputs.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-15\Unit-15_Lab\03. Characters in Range\obj\Debug\netcoreapp3.1\03. Characters in Range.dll
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-15\Unit-15_Lab\03. Characters in Range\obj\Debug\netcoreapp3.1\03. Characters in Range.pdb
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-15\Unit-15_Lab\03. Characters in Range\obj\Debug\netcoreapp3.1\03. Characters in Range.genruntimeconfig.cache

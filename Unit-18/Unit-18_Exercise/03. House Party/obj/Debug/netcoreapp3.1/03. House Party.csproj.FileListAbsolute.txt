@@ -1,0 +1,14 @@
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-18\Unit-18_Exercise\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.exe
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-18\Unit-18_Exercise\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.deps.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-18\Unit-18_Exercise\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.runtimeconfig.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-18\Unit-18_Exercise\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.runtimeconfig.dev.json
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-18\Unit-18_Exercise\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.dll
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-18\Unit-18_Exercise\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.pdb
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-18\Unit-18_Exercise\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.csproj.AssemblyReference.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-18\Unit-18_Exercise\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.GeneratedMSBuildEditorConfig.editorconfig
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-18\Unit-18_Exercise\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.AssemblyInfoInputs.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-18\Unit-18_Exercise\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.AssemblyInfo.cs
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-18\Unit-18_Exercise\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.csproj.CoreCompileInputs.cache
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-18\Unit-18_Exercise\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.dll
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-18\Unit-18_Exercise\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.pdb
+D:\_SoftUni\GitHub\Repository\-Programming-Fundamentals-Csharp-sep-2022\Unit-18\Unit-18_Exercise\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.genruntimeconfig.cache
